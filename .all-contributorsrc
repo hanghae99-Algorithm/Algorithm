@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Puri12",
+      "name": "Puri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5901912?v=4",
+      "profile": "https://github.com/Puri12",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Algorithm",
+  "projectOwner": "hanghae99-Algorithm"
+}
