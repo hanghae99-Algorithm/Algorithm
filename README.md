@@ -7,6 +7,7 @@ Hanghae99 - Algorithm Study
 
 ## 🔥 스터디 진행방식 🔥
  - 매일 밤 한 문제씩 서로의 코드 리뷰
+ - 본인의 브랜치를 생성 해 코드 업로드 후 pull request로 제출하는 방식
 
 ## 📅 진행 기록
 
