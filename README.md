@@ -1,6 +1,6 @@
 # Algorithm Study
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Hanghae99 - Algorithm Study
 
@@ -28,6 +28,7 @@ Hanghae99 - Algorithm Study
       <td align="center"><a href="https://github.com/Puri12"><img src="https://avatars.githubusercontent.com/u/5901912?v=4?s=100" width="100px;" alt="Puri"/><br /><sub><b>Puri</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=Puri12" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/kaifazhe99"><img src="https://avatars.githubusercontent.com/u/88355853?v=4?s=100" width="100px;" alt="Hojin"/><br /><sub><b>Hojin</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=kaifazhe99" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/kidonge"><img src="https://avatars.githubusercontent.com/u/106523614?v=4?s=100" width="100px;" alt="kidonge"/><br /><sub><b>kidonge</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=kidonge" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/yusung4612"><img src="https://avatars.githubusercontent.com/u/107028312?v=4?s=100" width="100px;" alt="yusung4612"/><br /><sub><b>yusung4612</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=yusung4612" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
