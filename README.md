@@ -14,7 +14,7 @@ Hanghae99 - Algorithm Study
 | 닐찌 | 문제 |
 | --- | --- |
 | 10/04 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) |
-| 10/05 |  |
+| 10/05 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |
 
 ## Contributors
 
