@@ -7,6 +7,15 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "BaekDoosan-maker",
+      "name": "Doosan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57098232?v=4",
+      "profile": "https://doosan.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "Puri12",
       "name": "Puri",
       "avatar_url": "https://avatars.githubusercontent.com/u/5901912?v=4",
@@ -16,10 +25,10 @@
       ]
     },
     {
-      "login": "BaekDoosan-maker",
-      "name": "Doosan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/57098232?v=4",
-      "profile": "https://doosan.tistory.com/",
+      "login": "kaifazhe99",
+      "name": "Hojin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88355853?v=4",
+      "profile": "https://github.com/kaifazhe99",
       "contributions": [
         "code"
       ]
