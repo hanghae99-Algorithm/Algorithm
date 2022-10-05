@@ -24,9 +24,10 @@ Hanghae99 - Algorithm Study
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Puri12"><img src="https://avatars.githubusercontent.com/u/5901912?v=4?s=100" width="100px;" alt="Puri"/><br /><sub><b>Puri</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=Puri12" title="Code">💻</a></td>
       <td align="center"><a href="https://doosan.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57098232?v=4?s=100" width="100px;" alt="Doosan"/><br /><sub><b>Doosan</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=BaekDoosan-maker" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Puri12"><img src="https://avatars.githubusercontent.com/u/5901912?v=4?s=100" width="100px;" alt="Puri"/><br /><sub><b>Puri</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=Puri12" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/kaifazhe99"><img src="https://avatars.githubusercontent.com/u/88355853?v=4?s=100" width="100px;" alt="Hojin"/><br /><sub><b>Hojin</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=kaifazhe99" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/kidonge"><img src="https://avatars.githubusercontent.com/u/106523614?v=4?s=100" width="100px;" alt="kidonge"/><br /><sub><b>kidonge</b></sub></a><br /><a href="https://github.com/hanghae99-Algorithm/Algorithm/commits?author=kidonge" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>

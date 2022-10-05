@@ -7,15 +7,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "Puri12",
-      "name": "Puri",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5901912?v=4",
-      "profile": "https://github.com/Puri12",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
       "login": "BaekDoosan-maker",
       "name": "Doosan",
       "avatar_url": "https://avatars.githubusercontent.com/u/57098232?v=4",
@@ -25,10 +16,28 @@
       ]
     },
     {
+      "login": "Puri12",
+      "name": "Puri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5901912?v=4",
+      "profile": "https://github.com/Puri12",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "kaifazhe99",
       "name": "Hojin",
       "avatar_url": "https://avatars.githubusercontent.com/u/88355853?v=4",
       "profile": "https://github.com/kaifazhe99",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kidonge",
+      "name": "kidonge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106523614?v=4",
+      "profile": "https://github.com/kidonge",
       "contributions": [
         "code"
       ]
